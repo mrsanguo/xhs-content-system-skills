@@ -1,0 +1,32 @@
+{
+  "status": "unconfirmed",
+  "placeholder_only": true,
+  "generation": {
+    "method": "external-skill",
+    "generator_skill": "gzh-cover-generator",
+    "reference_sources": [],
+    "fallback": "stop"
+  },
+  "layout": "editorial-cards",
+  "palette": {
+    "primary": "#18324A",
+    "accent": "#F0A34A",
+    "surface": "#FFF8EA",
+    "surface_alt": "#EAF3F8",
+    "text_on_primary": "#FFFDF7",
+    "shadow": "#000000"
+  },
+  "typography": {
+    "font_path": "",
+    "font_index": 0,
+    "title_size": 108,
+    "subtitle_size": 46
+  },
+  "image": {
+    "brightness": 1.08,
+    "contrast": 1.03
+  },
+  "spacing": {
+    "safe_margin": 72
+  }
+}

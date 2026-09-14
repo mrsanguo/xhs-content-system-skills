@@ -1,0 +1,35 @@
+project_name: "{{PROJECT_NAME}}"
+created_date: "{{CREATED_DATE}}"
+platform: "{{PLATFORM}}"
+industry: "{{INDUSTRY}}"
+account_name: "{{ACCOUNT_NAME}}"
+current_positioning: "待确认"
+long_term_direction: "待确认"
+target_audience:
+  - "待确认"
+offer:
+  name: "待确认"
+  price: "待确认"
+  delivery: "待确认"
+trust_assets:
+  - "待补充"
+content_pillars:
+  - "待确认"
+content_ratio:
+  graphic: "待确认"
+  video: "待确认"
+cta: "待确认"
+public_boundaries:
+  - "不公开未经确认的隐私和商业信息"
+visual_status: "待确认"
+visual_style: "待确认"
+visual_generation:
+  method: "external-skill"
+  generator_skill: "gzh-cover-generator"
+  reference_sources: []
+  fallback: "stop"
+production_schedule: "待确认"
+publish_policy: "只生成待审核内容，不自动发布"
+daily_producer:
+  skill_name: "{{DAILY_SKILL_NAME}}"
+  skill_path: "skills/{{DAILY_SKILL_NAME}}"

@@ -1,0 +1,6 @@
+interface:
+  display_name: "项目每日内容生产"
+  short_description: "读取当前项目方案和素材，生成每日小红书待审核内容包"
+  default_prompt: "使用 ${{DAILY_SKILL_NAME}} 为当前项目生成明天的小红书待审核内容。"
+policy:
+  allow_implicit_invocation: false
